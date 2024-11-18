@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "rewovenblessings",
+  "version": "${version}",
+  "name": "Rewoven Origins: Blessings",
+  "description": "An add-on for the Origins mod which adds blessings.",
+  "authors": [
+    "Maxmani"
+  ],
+  "contributors": [
+    "blu",
+    "valor"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/valors-rewoven-origins-blessings",
+    "issues": "https://github.com/taintedvalor/valors-rewoven-origins-blessings-1.20/issues",
+    "sources": "https://github.com/taintedvalor/valors-rewoven-origins-blessings-1.20"
+  },
+  "license": "mit",
+  "icon": "assets/rewovenblessings/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.reimaden.touhoublessings.TouhouBlessings"
+    ]
+  },
+  "mixins": [
+    "rewovenblessings.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "origins": ">=1.10.0"
+  },
+  "suggests": {
+    "touhouorigins": "*"
+  }
+}
