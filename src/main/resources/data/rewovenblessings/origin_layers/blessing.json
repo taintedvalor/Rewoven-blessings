@@ -1,0 +1,19 @@
+{
+  "order": 15,
+  "origins": [
+    "rewovenblessings:regular",
+    "rewovenblessings:hakurei",
+    "rewovenblessings:moriya",
+    "rewovenblessings:high_stakes",
+    "rewovenblessings:knowledge",
+    "rewovenblessings:permadeath",
+    "rewovenblessings:beast_spirits",
+    "rewovenblessings:scarlet"
+  ],
+  "allow_random": true,
+  "exclude_random": [
+    "rewovenblessings:regular",
+    "rewovenblessings:high_stakes",
+    "rewovenblessings:permadeath"
+  ]
+}

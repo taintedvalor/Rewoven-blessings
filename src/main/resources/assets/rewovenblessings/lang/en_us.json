@@ -1,0 +1,65 @@
+{
+  "layer.rewovenblessings.blessing.name": "Blessing",
+  "layer.rewovenblessings.blessing.missing_origin.name": "Missing",
+  "layer.rewovenblessings.blessing.missing_origin.description": "You do not have a Blessing.",
+
+  "origin.rewovenblessings.regular.name": "Regular",
+  "origin.rewovenblessings.regular.description": "An ordinary blessing. It doesn't really do anything.",
+
+  "origin.rewovenblessings.hakurei.name": "Hakurei",
+  "origin.rewovenblessings.hakurei.description": "Shrine maidens are trained in youkai extermination techniques as well as standard duties like performing blessings.",
+
+  "power.rewovenblessings.youkai_buster.name": "Youkai Buster",
+  "power.rewovenblessings.youkai_buster.description": "You deal 10% increased damage against all youkai.",
+
+  "origin.rewovenblessings.moriya.name": "Moriya",
+  "origin.rewovenblessings.moriya.description": "With the Moriya Shrine's blessing, you will be put under the Wind God's protection.",
+
+  "power.rewovenblessings.wind_protection.name": "Wind Protection",
+  "power.rewovenblessings.wind_protection.description": "You take 10% reduced base fall damage.",
+  "power.rewovenblessings.miracle.name": "Miracle",
+  "power.rewovenblessings.miracle.description": "You have a 1% chance of negating all damage.",
+
+  "origin.rewovenblessings.high_stakes.name": "High Stakes",
+  "origin.rewovenblessings.high_stakes.description": "Trade your health for more damage with the Curse of High Stakes.",
+
+  "power.rewovenblessings.glass_cannon.name": "Glass Cannon",
+  "power.rewovenblessings.glass_cannon.description": "In exchange for half of your total health, you gain 25% increased base damage.",
+
+  "origin.rewovenblessings.knowledge.name": "Knowledge",
+  "origin.rewovenblessings.knowledge.description": "Quench your thirst for experience with the Blessing of Knowledge.",
+
+  "power.rewovenblessings.adept.name": "Adept",
+  "power.rewovenblessings.adept.description": "You gain 50% increased XP from all sources.",
+
+  "origin.rewovenblessings.permadeath.name": "Permadeath",
+  "origin.rewovenblessings.permadeath.description": "Upon dying, instead of crossing the Sanzu River in the afterlife, your soul will reincarnate, losing all earthly possessions including those in your ender chest and origin specific inventories, as well as any other progress you've made. On the other hand, you'll get a chance to pick a new origin for yourself.",
+
+  "power.rewovenblessings.one_life.name": "One Life",
+  "power.rewovenblessings.one_life.description": "Like Hardcore mode, you only have one life. If you die, instead of being forced into spectator mode, you respawn with a fresh character. You lose most of your progress but get to pick a new origin.",
+
+  "origin.rewovenblessings.beast_spirits.name": "Beast Spirits",
+  "origin.rewovenblessings.beast_spirits.description": "With the Blessing of Beast Spirits you can borrow the animal spirits' powers, helping you to better work with animals. Be careful not to become possessed, however.",
+
+  "power.rewovenblessings.husbandry_master.name": "Husbandry Master",
+  "power.rewovenblessings.husbandry_master.description": "Animals you breed take half as long to be ready to mate again.",
+
+  "power.rewovenblessings.sturdy_beasts.name": "Sturdy Beasts",
+  "power.rewovenblessings.sturdy_beasts.description": "Animals you tame receive a permanent armor bonus.",
+
+  "power.rewovenblessings.animal_empath.name": "Animal Empath",
+  "power.rewovenblessings.animal_empath.description": "You do not hurt your own tamed animals and they receive a regeneration effect when near you.",
+
+  "origin.rewovenblessings.scarlet.name": "Scarlet",
+  "origin.rewovenblessings.scarlet.description": "The inside of the Scarlet Devil Mansion is much larger than is apparent from the outside.",
+
+  "power.rewovenblessings.spacetime_manipulation.name": "Spacetime Manipulation",
+  "power.rewovenblessings.spacetime_manipulation.description": "You have increased item pickup range while sneaking.",
+
+  "rewovenblessings.subtitles.blessing.miracle.trigger": "Miracle happens",
+
+  "power.rewovenblessings.youkai_buster.badge": "Does not include Fairies, Celestials, or Haniwa.",
+  "power.rewovenblessings.one_life.activate": "You have entered Permadeath mode, good luck!",
+  "power.rewovenblessings.one_life.death": "%1$s has fallen in Permadeath mode %2$s times!",
+  "power.rewovenblessings.one_life.deathOnce": "%1$s has fallen in Permadeath mode!"
+}

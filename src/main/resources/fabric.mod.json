@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "rewovenblessings",
+  "version": "${version}",
+
+  "name": "Origin Blessings: Rewoven",
+  "description": "A fork of touhou origins blessings Designed to be used in the sanctuary Modpack and gives compatibility between touhou origins blessings and Yigd",
+  "authors": [
+    "valor"
+  ],
+  "contributors": [
+    "blu",
+    "Maxmani"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/rewoven-origins-blessings",
+    "issues": "https://github.com/taintedvalor/Rewoven-blessings/issues",
+    "sources": "https://github.com/taintedvalor/Rewoven-blessings"
+  },
+
+  "license": "GPL-3.0-or-later",
+  "icon": "assets/rewovenblessings/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.reimaden.rewovenblessings.RewovenBlessings"
+    ]
+  },
+  "mixins": [
+    "rewovenblessings.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "origins": ">=1.10.0"
+  },
+  "suggests": {
+    "rewovenblessings": "*"
+  }
+}
